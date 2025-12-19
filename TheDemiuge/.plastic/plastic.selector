@@ -1,0 +1,4 @@
+repository "TheDemiuge@tj_rechenz@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

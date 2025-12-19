@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - imageSprite
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - player
+  - Water
+  - UI
+  - 
+  - backgroundlayer
+  - groundlayer
+  - walllayer
+  - playerlayer
+  - monsterlayer
+  - UIlayer
+  - airlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: groundlayer
+    uniqueID: 1717194907
+    locked: 0
+  - name: walllayer
+    uniqueID: 921354115
+    locked: 0
+  - name: playerlayer
+    uniqueID: 1421037933
+    locked: 0
+  - name: monsterlayer
+    uniqueID: 2143522817
+    locked: 0
+  - name: UIlayer
+    uniqueID: 3666979565
+    locked: 0
